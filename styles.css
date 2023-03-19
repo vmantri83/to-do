@@ -6,8 +6,25 @@
 
 body {
   height: 100vh;
-  background: #4ebca0;
+  background: #3599c0;
   font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-family: algerian;
+  font-size: 52px;
+  position: absolute;
+  top: 18%;
+  left: 39.4%;
+}
+
+#date {
+  font-size: 25px;
+  align-items: center;
+  left: 25%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 44.8%;
+  padding-top: 3%;
 }
 
 .container {
